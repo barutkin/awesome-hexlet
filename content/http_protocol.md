@@ -1,4 +1,4 @@
-# HTTP Protocol<img src="https://cdn2.hexlet.io/derivations/image/fill/600/400/eyJpZCI6IjBlNzk3MGQ1OGVlZTg2YWY0MjMzODI4ZGQ0ODgwOWY4LnBuZyIsInN0b3JhZ2UiOiJzdG9yZSJ9?signature=66ab65bc83953d1e00f9c105463b115394cb333a1a823eaa8119226790106f0e" alt="Hexlet HTTP Protocol course logo" align="right" width="250px"/>
+# HTTP Protocol<img src="img/hexlet_http_protocol_course_logo.png" alt="Hexlet HTTP Protocol course logo" align="right" width="250px"/>
 
 A list of resources from [Hexlet HTTP Protocol course](https://hexlet.io/courses/http_protocol).
 
