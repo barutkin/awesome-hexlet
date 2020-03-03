@@ -15,3 +15,9 @@ Hexlet is an educational project. [Read more about Hexlet (in Russian)](https://
 
 - [Стандарт HTTP 1.1](https://www.ietf.org/rfc/rfc2616.txt) (en)
 - [Википедия / Постоянное HTTP-соединение](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE%D0%B5_HTTP-%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5) (ru)
+
+## Тело HTTP-запроса
+
+- [Википедия / Тело сообщения](https://ru.wikipedia.org/wiki/HTTP#.D0.A2.D0.B5.D0.BB.D0.BE_.D1.81.D0.BE.D0.BE.D0.B1.D1.89.D0.B5.D0.BD.D0.B8.D1.8F) (ru)
+- [Формат HTTP-запросов](http://citforum.ru/internet/cgi_tut/rqst.shtml) (ru)
+- [Формат HTTP-ответов](http://citforum.ru/internet/cgi_tut/spns.shtml) (ru)
