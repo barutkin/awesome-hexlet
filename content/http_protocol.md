@@ -38,3 +38,7 @@ Hexlet is an educational project. [Read more about Hexlet (in Russian)](https://
 
 - [Query String / Wikipedia](https://en.wikipedia.org/wiki/Query_string) (en)
 - [RFC 3986 (соответствующий стандарт)](https://tools.ietf.org/html/rfc3986) (en)
+
+## Перенаправления
+
+- [HTTP 301 / Wikipedia](https://en.wikipedia.org/wiki/HTTP_301) (en)
