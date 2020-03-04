@@ -42,3 +42,7 @@ Hexlet is an educational project. [Read more about Hexlet (in Russian)](https://
 ## Перенаправления
 
 - [HTTP 301 / Wikipedia](https://en.wikipedia.org/wiki/HTTP_301) (en)
+
+## Базовая аутентификация
+
+- [Basic access authentication / Wikipedia](https://en.wikipedia.org/wiki/Basic_access_authentication) (en)
