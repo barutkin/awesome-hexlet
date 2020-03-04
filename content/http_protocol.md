@@ -46,3 +46,9 @@ Hexlet is an educational project. [Read more about Hexlet (in Russian)](https://
 ## Базовая аутентификация
 
 - [Basic access authentication / Wikipedia](https://en.wikipedia.org/wiki/Basic_access_authentication) (en)
+
+## Cookies
+
+- [HTTP Cookie / Mozilla](https://developer.mozilla.org/ru/docs/Web/HTTP/%D0%9A%D1%83%D0%BA%D0%B8) (ru)
+- [HTTP Куки / Википедия](https://ru.wikipedia.org/wiki/HTTP_cookie) (ru)
+- [RFC 6265: стандарт, описывающий cookie](https://tools.ietf.org/html/rfc6265) (en)
