@@ -21,3 +21,10 @@ Hexlet is an educational project. [Read more about Hexlet (in Russian)](https://
 - [Википедия / Тело сообщения](https://ru.wikipedia.org/wiki/HTTP#.D0.A2.D0.B5.D0.BB.D0.BE_.D1.81.D0.BE.D0.BE.D0.B1.D1.89.D0.B5.D0.BD.D0.B8.D1.8F) (ru)
 - [Формат HTTP-запросов](http://citforum.ru/internet/cgi_tut/rqst.shtml) (ru)
 - [Формат HTTP-ответов](http://citforum.ru/internet/cgi_tut/spns.shtml) (ru)
+
+## Отправка форм
+
+- [Википедия / Что такое HTML-форма?](https://ru.wikipedia.org/wiki/Форма_(HTML)) (ru)
+- [Sending form data](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Sending_and_retrieving_form_data) (en)
+- [Формы в HTML](https://ru.code-basics.com/languages/html/modules/form/lessons/basics) (ru)
+- [Отправка данных по HTTP](https://developer.mozilla.org/ru/docs/Learn/HTML/Forms/%D0%9E%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B8_%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D1%84%D0%BE%D1%80%D0%BC%D1%8B) (ru)
