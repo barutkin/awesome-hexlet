@@ -33,3 +33,8 @@ Hexlet is an educational project. [Read more about Hexlet (in Russian)](https://
 
 - [Ссылка на изображение, передаваемое с помощью chunks](https://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx)
 - [Chunked transfer encoding / Википедия](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE%D0%B5_HTTP-%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5) (ru)
+
+## Передача данных query string
+
+- [Query String / Wikipedia](https://en.wikipedia.org/wiki/Query_string) (en)
+- [RFC 3986 (соответствующий стандарт)](https://tools.ietf.org/html/rfc3986) (en)
